@@ -1,9 +1,9 @@
 ![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og.png)
 
 <h1 align="center">Hi 👋, I'm Kaan Acikgoz</h1>
-<h3 align="center">An electrical and electronics engineer who trying to become an iOS developer</h3>
+<h3 align="center">An electrical and electronics engineer who trying to become an iOS Developer and Java Developer</h3>
 
-- 🌱 I’m currently learning **swift**
+- 🌱 I’m currently learning **swift and java**
 
 - 📫 How to reach me **kaanacikgoz@outlook.com**
 
