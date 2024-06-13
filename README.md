@@ -1,4 +1,4 @@
-![MasterHead]([https://miro.medium.com/v2/resize:fit:1400/1*aXe6MaOyhdIP5WqdPHhSFw.png](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*BTasEA-PDAzcoQ0A-lPyyg.png))
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*aXe6MaOyhdIP5WqdPHhSFw.png)
 
 <h1 align="center">Hi 👋, I'm Kaan Acikgoz</h1>
 <h3 align="center">An electrical and electronics engineer who trying to become an iOS Developer and Java Developer</h3>
