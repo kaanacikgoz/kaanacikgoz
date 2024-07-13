@@ -1,4 +1,3 @@
-![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdmmxiwgyuzodl7yqyuca.jpeg)
 
 <h1 align="center">Hi 👋, I'm Kaan Acikgoz</h1>
 <h3 align="center">An electrical and electronics engineer who trying to become a Java Backend Developer</h3>
